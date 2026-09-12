@@ -22,6 +22,7 @@ Simulation and Testing — AI accelerates simulations of mechanical systems (str
 Conclusion
 
 AI is increasingly becoming a core tool in mechanical engineering, from early-stage design to maintenance and quality control. As a mechanical engineering student with hands-on interest in mechatronics, I see AI not as a replacement for engineering judgment, but as a tool that accelerates repetitive or data-heavy tasks, freeing engineers to focus on higher-level problem-solving. Moving forward, AI is likely to become even more integrated into engineering workflows, particularly in automation, simulation, and predictive systems — making familiarity with these tools an increasingly valuable skill for engineers entering the field.
- #day 3 industrial training @havilah block chain studio 
+ 
+ #day 3 introduction to automation @industrial training @havilah block chain studio 
 
 For this automation, I would use n8n to build the workflow, since it allows connecting multiple data sources (a weather API and a news API) into a single flow using its Merge and Set nodes, then formatting them into one combined message before sending it out via email or Telegram. n8n is free to self-host and gives more flexibility for combining and formatting multiple data sources compared to simpler tools like Zapier, making it well-suited for this kind of daily briefing automation.
